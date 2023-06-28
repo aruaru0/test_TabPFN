@@ -1,2 +1,3 @@
 # test_TabPFN
-test code for TabPFN
+
+This GitHub repository is a Jupyter notebook for testing TabPFN.
